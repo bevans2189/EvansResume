@@ -1,0 +1,19 @@
+body {
+background-color: lightslategray;
+}
+h2 {
+	color:#9E5E42
+}
+a:hover {
+	color:lightslategray;
+}
+header, footer  {
+	background-color:#9E5E42
+}
+h1{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	 font-size: 4em;
+}
+h1 {
+		text-shadow: 2px 2px 5px #9E5E42;
+	}
